@@ -1,8 +1,4 @@
-# Kanban Board Project
 
-![Layout](https://github.com/beatrizsabbatini/kanban-board/blob/main/src/assets/project_video.gif "Kanban Board")
-
-See the published web app: https://beatrizsabbatini.github.io/kanban-board/
 
 ## How to run this project on your computer:
 
@@ -36,6 +32,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `yarn run deploy`
 
-Deploys the code from the branch gh-pages to the published url:
-
-### `https://beatrizsabbatini.github.io/kanban-board/` 
